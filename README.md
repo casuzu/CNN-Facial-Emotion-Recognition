@@ -1,3 +1,5 @@
+Model scored 62.65% accuracy on test data.
+
 All train and test images were derived from Kaggle: www.kaggle.com/datasets/msambare/fer2013/data
 
 Images to NumpyArray (Converts the jpeg images to Numpy array for easy access and processing)
